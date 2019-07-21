@@ -1,0 +1,22 @@
+{
+  "name": "task-lists",
+  "version": "1.0.0",
+  "description": "an application to organize tasks",
+  "main": "_scripts/window.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaioRecife/task-lists.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaioRecife/task-lists/issues"
+  },
+  "homepage": "https://github.com/CaioRecife/task-lists#readme",
+  "dependencies": {
+    "electron": "^5.0.7"
+  }
+}
